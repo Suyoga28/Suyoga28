@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Suyoga S. Gaikwad!
+- 👋 Hi, I’m Suyoga S. Gaikwad Computer Engineering UG Student!
 - 👀 I’m interested in everything related to TECH!
 - 📫 How to reach me - https://www.linkedin.com/in/suyoga-gaikwad-b97490292/
 - 😄 Pronouns: She/her.
