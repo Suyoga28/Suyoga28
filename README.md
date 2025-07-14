@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyoga Gaikwad</h1>
-<h3 align="center">Final Year B.Tech Student | AI & Cloud Enthusiast | Data Analyst</h3>
+<h3 align="center">Final Year B.E. Student | AI & Cloud Enthusiast | Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F76D57&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;AI+%7C+Cloud+%7C+Data+%7C+Web" alt="Typing SVG" />
@@ -60,9 +60,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=suyogagaikwad&show_icons=true&theme=radical&hide_border=false&count_private=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Suyoga28&show_icons=true&theme=radical&hide_border=false&count_private=true" />
   <br>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=suyogagaikwad&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Suyoga28&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 
