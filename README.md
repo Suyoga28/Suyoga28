@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  ![visitors](https://komarev.com/ghpvc/?username=suyogagaikwad&color=brightgreen)
+  <img src="https://komarev.com/ghpvc/?username=suyogagaikwad&color=brightgreen" alt="Profile Views" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 Learning: Prompt Engineering, Power BI, Cloud, Data analysis
-- 💬 Ask me about: AI Projects, Salesforce, Dashboards, Resume Tips
+- 💬 Ask me about: AI Projects, Dashboards, Resume Tips
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suyogagaikwad) | ✉️ suyogagaikwad@email.com
 - ⚡ Fun fact: Dashboards are my digital canvas and I love turning data into stories 📊
 
@@ -60,10 +60,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyogagaikwad&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=suyogagaikwad&show_icons=true&theme=radical&hide_border=false&count_private=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suyogagaikwad&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=suyogagaikwad&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
+
 
 ---
 
