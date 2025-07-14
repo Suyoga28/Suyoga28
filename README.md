@@ -1,9 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Welcome%20to%20My%20Profile!&fontSize=35&fontAlignY=35&fontColor=ffffff&desc=AI%20%7C%20PowerBI%20%7C%20Web%20Dev&descAlignY=51&descAlign=50" />
+
 <h1 align="center">Hi 👋, I'm Suyoga Gaikwad</h1>
-<h3 align="center">Final Year B.E. Student | AI & Cloud Enthusiast | Data Analyst</h3>
+<h3 align="center">AI Automation & Cloud Enthusiast | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F76D57&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;AI+%7C+Cloud+%7C+Data+%7C+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&center=true&width=600&lines=Final+Year+Engineering+Student;Building+with+Python+%7C+Power+BI+%7C+ML;Turning+Ideas+into+Impactful+Projects!" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suyogagaikwad&color=brightgreen" alt="Profile Views" />
