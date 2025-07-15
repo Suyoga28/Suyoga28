@@ -1,20 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Welcome%20to%20My%20Profile!&fontSize=35&fontAlignY=35&fontColor=ffffff&desc=AI%20%7C%20PowerBI%20%7C%20Web%20Dev&descAlignY=51&descAlign=50" />
-
-<h1 align="center">Hi 👋, I'm Suyoga Gaikwad</h1>
-<h3 align="center">AI Automation & Cloud Enthusiast | Data Analyst</h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&center=true&width=600&lines=Final+Year+Engineering+Student;Building+with+Python+%7C+Power+BI+%7C+ML;Turning+Ideas+into+Impactful+Projects!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Suyoga%20Gaikwad&fontColor=ffffff&fontSize=42&fontAlignY=55&desc=Welcome%20to%20My%20Profile!&descAlign=50&descSize=22&descAlignY=40" />
 </p>
 
 
+
+<!-- Name & Role -->
+<h2 align="center">AI Automation and Cloud Enthusiast | Data Analyst</h2>
+
+<!-- GIF (centered and full-width) -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/882c6587a069507c977c5ea39d156a49ca66dd7c21934cdcf77f265003ea2649/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f74656e6f722e676966" width="460" alt="Chill Study GIF">
+</p>
+
+<!-- Visitor Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suyogagaikwad&color=brightgreen" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### <!-- Typing Intro --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&width=600&lines=Final+Year+Engineering+Student;Building+with+Python+%7C+Power+BI+%7C+ML;Turning+Ideas+into+Impactful+Projects!" alt="Typing SVG" />
+</p>
 
 - 🌱 Learning: Prompt Engineering, Power BI, Cloud, Data analysis
 - 💬 Ask me about: AI Projects, Dashboards, Resume Tips
