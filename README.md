@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Suyoga%20Gaikwad&fontColor=ffffff&fontSize=42&fontAlignY=55&desc=Welcome%20to%20My%20Profile!&descAlign=50&descSize=22&descAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,50:3f5efb,100:00c9ff&height=200&section=header&text=Hi%20👋,%20I'm%20Suyoga%20Gaikwad&fontColor=ffffff&fontSize=42&fontAlignY=55&desc=Welcome%20to%20My%20Profile!&descAlign=50&descSize=22&descAlignY=40" />
 </p>
-
 
 
 <!-- Name & Role -->
