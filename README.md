@@ -81,10 +81,6 @@
 
 ### 🌟 Top Projects
 
-#### 📊 SNP Sales Dashboard
-- Built sales analysis dashboard for SNP during internship at Edu-versity (Credential by Wipro).
-- Used Power BI, Excel, and DAX to visualize KPIs like revenue trends, top customers, and region-wise performance.
-
 #### 🚖 Cab Fare Prediction (Jun 2024)
 - Built ML model to estimate cab fare using distance, time, traffic, and location.
 - Implemented with Python, Pandas, and Scikit-learn.
