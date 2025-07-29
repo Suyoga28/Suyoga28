@@ -98,6 +98,16 @@
   <a href="mailto:suyogagaikwad@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://medium.com/@suyogasgaikwad" target="_blank">
   <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  <a href="https://leetcode.com/suyoga_gaikwad/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://www.instagram.com/suyoga_28/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</a>
+  
+</a>
+
 </a>
 
 </p>
