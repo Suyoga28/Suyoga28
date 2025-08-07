@@ -55,8 +55,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-007396?style=for-the-badge)
 ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+
+
 
 #### 💡 Interest
 - Data Analysis  
@@ -82,6 +85,11 @@
 - Built ML model to estimate cab fare using distance, time, traffic, and location.
 - Implemented with Python, Pandas, and Scikit-learn.
 - Aimed to improve transparency in pricing.
+
+#### 📊 YouTube Channel Analysis – Pratiksha_BTech (Jul 2025)
+- Conducted detailed data analysis on the YouTube channel Pratiksha_BTech to uncover growth trends and audience engagement.
+- Identified high-performing content themes and optimal posting schedules. 
+- Aimed to support data-driven decisions for improving reach, consistency, and subscriber growth.
 
 #### 📰 Fake News Detection (Jul 2024)
 - Developed ML model using NLP techniques to classify real vs fake news.
