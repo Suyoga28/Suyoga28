@@ -9,7 +9,7 @@
 
 <!-- GIF (centered and full-width) -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/882c6587a069507c977c5ea39d156a49ca66dd7c21934cdcf77f265003ea2649/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f74656e6f722e676966" width="460" alt="Chill Study GIF">
+  <img src="https://camo.githubusercontent.com/882c6587a069507c977c5ea39d156a49ca66dd7c21934cdcf77f265003ea2649/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f74656e6f722e676966" width="400" alt="Chill Study GIF">
 </p>
 
 <!-- Visitor Badge -->
