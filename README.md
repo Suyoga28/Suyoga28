@@ -5,7 +5,7 @@
 
 
 <!-- Name & Role -->
-<h2 align="center">AI Automation and Cloud Enthusiast | Data Analyst</h2>
+<h2 align="center">AI, Automation & Data Science Enthusiast | Turning data into intelligent solutions</h2>
 
 <!-- GIF (centered and full-width) -->
 <p align="center">
