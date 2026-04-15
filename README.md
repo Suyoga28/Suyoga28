@@ -90,11 +90,6 @@
 - Identified high-performing content themes and optimal posting schedules. 
 - Aimed to support data-driven decisions for improving reach, consistency, and subscriber growth.
 
-#### 📰 Fake News Detection (Jul 2024)
-- Developed ML model using NLP techniques to classify real vs fake news.
-- Achieved 92.98% accuracy using Scikit-learn and text preprocessing.
-- Analyzed headlines, text patterns, and sources.
-
 ---
 
 ### 🌐 Let's Connect!
