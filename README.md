@@ -139,10 +139,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Suyoga28&show_icons=true&theme=radical&hide_border=false&count_private=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Suyoga28&show_icons=true&theme=radical&hide_border=false&count_private=true&cache_seconds=60" />
   <br>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Suyoga28&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Suyoga28&theme=radical&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=60" />
 </p>
+
 
 
 </a>
