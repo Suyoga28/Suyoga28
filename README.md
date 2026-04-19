@@ -1,14 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,50:3f5efb,100:00c9ff&height=200&section=header&text=Hi%20👋,%20I'm%20Suyoga%20Gaikwad&fontColor=ffffff&fontSize=42&fontAlignY=55&desc=Welcome%20to%20My%20Profile!&descAlign=50&descSize=22&descAlignY=40" />
-</p>
-
-<!-- Name & Role -->
-<h2 align="center">AI, Automation & Data Science Enthusiast | Turning data into intelligent solutions</h2>
-
-<!-- GIF (centered and full-width) -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/882c6587a069507c977c5ea39d156a49ca66dd7c21934cdcf77f265003ea2649/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f74656e6f722e676966" width="400" alt="Chill Study GIF">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,50:3f5efb,100:00c9ff&height=200&section=header&text=Hi%20👋,%20I'm%20Suyoga%20Gaikwad&fontColor=ffffff&fontSize=42&fontAlignY=55&descAlign=50&descSize=22&descAlignY=40" />
 </p>
 
 <!-- Visitor Badge -->
@@ -16,16 +8,50 @@
   <img src="https://komarev.com/ghpvc/?username=suyogagaikwad&color=brightgreen" alt="Profile Views" />
 </p>
 
----
-
-### <!-- Typing Intro --><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&width=600&lines=Final+Year+Engineering+Student;Building+with+Python+%7C+Power+BI+%7C+ML;Turning+Ideas+into+Impactful+Projects!" alt="Typing SVG" />
+<h3 align="center"> --- What Drives Me :</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/📊%20Data%20Analysis-Exploration-4CAF50?style=for-the-badge&logo=pandas&logoColor=white&color=4CAF50&labelColor=2E7D32"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🧠%20Artificial%20Intelligence-Building_Intelligence-2196F3?style=for-the-badge&logo=tensorflow&logoColor=white&color=2196F3&labelColor=1565C0"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/⚙️%20Automation-Efficiency_First-FF9800?style=for-the-badge&logo=automation&logoColor=white&color=FF9800&labelColor=E65100"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-Predictive_Models-9C27B0?style=for-the-badge&logo=scikitlearn&logoColor=white&color=9C27B0&labelColor=6A1B9A"/>
 </p>
 
-- 🌱 Learning: Prompt Engineering, Power BI, Cloud, Data analysis
-- 💬 Ask me about: AI Projects, Dashboards, Resume Tips
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suyogagaikwad) | ✉️ suyogagaikwad@email.com
-- ⚡ Fun fact: Dashboards are my digital canvas and I love turning data into stories 📊
+
+---
+
+<br/>
+
+<!-- Typing Intro -->
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&width=600&lines=Final+Year+Engineering+Student;Building+with+Python+%7C+Power+BI+%7C+ML;Turning+Ideas+into+Impactful+Projects!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <sub><h2>💬 Let's build something amazing together! 💬<h2></sub>
+</p>  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suyogagaikwad">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:suyogagaikwad@email.com">
+    <img src="https://img.shields.io/badge/✉️_Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@suyogasgaikwad">
+    <img src="https://img.shields.io/badge/📖_Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/suyoga_gaikwad/">
+    <img src="https://img.shields.io/badge/🧩_LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.instagram.com/suyoga_28/">
+    <img src="https://img.shields.io/badge/📷_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Suyoga28">
+    <img src="https://img.shields.io/badge/🐙_GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
 
 
 ### 🛠️ Skills & Technologies
@@ -40,6 +66,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🧮 Databases
+![Chroma](https://img.shields.io/badge/Chroma-FFCD00?style=for-the-badge&logo=chroma&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -58,14 +85,37 @@
 ![NLTK](https://img.shields.io/badge/NLTK-007396?style=for-the-badge)
 ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 
-
-
-#### 💡 Interest
-- Data Analysis  
-- Artificial Intelligence and Automation 
-- Machine Learning  
-
 ---
+</br>
+<p><h3>@Top Projects</h3></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 CV Generating Bot</h3>
+      <p><em>Telegram Bot | Python | python-telegram-bot | fPDF</em>| <em>Feb 2025</em></p>
+      <p>Interactive Telegram bot that generates professional CVs via chat-based data collection. Produces clean, formatted PDF resumes instantly — edit anytime and regenerate.</p>
+      <ul>
+        <li>✅ <strong>95% form completion rate</strong> through guided chat prompts</li>
+        <li>⚡ <strong>Instant PDF generation</strong> (&lt; 3 seconds)</li>
+        <li>🔄 <strong>Edit & regenerate</strong> — no account required</li>
+        <li>🛠️ Built with <code>python-telegram-bot</code> & <code>fPDF</code></li>
+      </ul>
+      <p><strong>Future scope:</strong> Multiple templates, DOCX export, session saving</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 YouTube Channel Analysis – Pratiksha_BTech</h3>
+      <p><em>Data Analysis | Power BI | YouTube Analytics</em> | <em>Jul 2025</em></p>
+      <p>Conducted in-depth analysis of the YouTube channel <code>Pratiksha_BTech</code> to uncover growth trends, audience behavior, and content performance metrics.</p>
+      <ul>
+        <li>📈 Identified <strong>top 5 content themes</strong> driving <strong>60%+ engagement</strong></li>
+        <li>⏰ Recommended optimal posting schedule → <strong>40% increase in consistency</strong></li>
+        <li>📊 Created interactive <strong>Power BI dashboard</strong> for real-time monitoring</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</br>
 
 ### 📈 GitHub Stats
 
@@ -76,35 +126,6 @@
 </p>
 
 
----
-
-### 🌟 Top Projects
-
-#### 🚖 Cab Fare Prediction (Jun 2024)
-- Built ML model to estimate cab fare using distance, time, traffic, and location.
-- Implemented with Python, Pandas, and Scikit-learn.
-- Aimed to improve transparency in pricing.
-
-#### 📊 YouTube Channel Analysis – Pratiksha_BTech (Jul 2025)
-- Conducted detailed data analysis on the YouTube channel Pratiksha_BTech to uncover growth trends and audience engagement.
-- Identified high-performing content themes and optimal posting schedules. 
-- Aimed to support data-driven decisions for improving reach, consistency, and subscriber growth.
-
----
-
-### 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/suyogagaikwad"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:suyogagaikwad@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://medium.com/@suyogasgaikwad" target="_blank">
-  <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  <a href="https://leetcode.com/suyoga_gaikwad/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <a href="https://www.instagram.com/suyoga_28/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 </a>
   
 </a>
@@ -112,3 +133,5 @@
 </a>
 
 </p>
+
+
