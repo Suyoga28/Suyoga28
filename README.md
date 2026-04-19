@@ -9,10 +9,10 @@
 
 <h3 align="center"> What Drives Me :</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/📊%20Data%20Analysis-Exploration-4CAF50?style=for-the-badge&logo=pandas&logoColor=white&color=4CAF50&labelColor=2E7D32"/> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🧠%20Artificial%20Intelligence-Building_Intelligence-2196F3?style=for-the-badge&logo=tensorflow&logoColor=white&color=2196F3&labelColor=1565C0"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20Data%20Analysis-Exploration-4CAF50?style=for-the-badge&logo=pandas&logoColor=white&color=4CAF50&labelColor=2E7D32"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20Artificial%20Intelligence-Building_Intelligence-2196F3?style=for-the-badge&logo=tensorflow&logoColor=white&color=2196F3&labelColor=1565C0"/> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/⚙️%20Automation-Efficiency_First-FF9800?style=for-the-badge&logo=automation&logoColor=white&color=FF9800&labelColor=E65100"/> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-Predictive_Models-9C27B0?style=for-the-badge&logo=scikitlearn&logoColor=white&color=9C27B0&labelColor=6A1B9A"/>
+  <img src="https://img.shields.io/badge/%20Machine%20Learning-Predictive_Models-9C27B0?style=for-the-badge&logo=scikitlearn&logoColor=white&color=9C27B0&labelColor=6A1B9A"/>
 </p>
 
 
@@ -34,19 +34,19 @@
     <img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:suyogagaikwad@email.com">
-    <img src="https://img.shields.io/badge/✉️_Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/_Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://medium.com/@suyogasgaikwad">
-    <img src="https://img.shields.io/badge/📖_Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/_Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/suyoga_gaikwad/">
-    <img src="https://img.shields.io/badge/🧩_LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/_LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.instagram.com/suyoga_28/">
-    <img src="https://img.shields.io/badge/📷_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/Suyoga28">
-    <img src="https://img.shields.io/badge/🐙_GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/_GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -63,8 +63,6 @@
 ### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://img.shields.io/badge/Chroma-FFCD00?logo=chroma&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
 </p>
 
 ### Tools & Platforms
@@ -74,22 +72,34 @@
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/ngrok-1F1F1F?style=flat&logo=ngrok&logoColor=white" />
 </p>
 
 ### Libraries, Frameworks & Models
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,flask,streamlit,matplotlib,seaborn" />
-  <img src="https://img.shields.io/badge/Sentence%20Transformer-00599C?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Beautiful%20Soup-4CAF50?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram%20Bot-0088CC?logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/ngrok-1F1F1F?logo=ngrok&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/BERT-2196F3?logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-0A9396?logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6A1B9A?logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Naive%20Bayes-FF9800?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logistic%20Regression-4CAF50?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Decision%20Tree-9C27B0?logo=python&logoColor=white" />
+  <!-- Core scientific stack -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logo=python&logoColor=white" />
+
+  <!-- Web frameworks -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+
+  <!-- ML / NLP models -->
+  <img src="https://img.shields.io/badge/Sentence%20Transformer-00599C?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BERT-2196F3?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0A9396?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=flat&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naive%20Bayes-FF9800?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logistic%20Regression-4CAF50?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decision%20Tree-9C27B0?style=flat&logo=python&logoColor=white" />
+
+  <!-- Utilities -->
+  <img src="https://img.shields.io/badge/Beautiful%20Soup-4CAF50?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot-0088CC?style=flat&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
 </p>
 
 
