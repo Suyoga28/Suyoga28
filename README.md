@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=suyogagaikwad&color=brightgreen" alt="Profile Views" />
 </p>
 
-<h3 align="center"> --- What Drives Me :</h3>
+<h3 align="center"> What Drives Me :</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/📊%20Data%20Analysis-Exploration-4CAF50?style=for-the-badge&logo=pandas&logoColor=white&color=4CAF50&labelColor=2E7D32"/> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🧠%20Artificial%20Intelligence-Building_Intelligence-2196F3?style=for-the-badge&logo=tensorflow&logoColor=white&color=2196F3&labelColor=1565C0"/> &nbsp;&nbsp;
@@ -51,39 +51,49 @@
   </a>
 </p>
 
-<br/>
+</br>
 
 
-### 🛠️ Skills & Technologies
+<h2 align="left"> Skills & Technologies</h2>
 
-#### 🧠 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🧮 Databases
-![Chroma](https://img.shields.io/badge/Chroma-FFCD00?style=for-the-badge&logo=chroma&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
+</p>
 
-#### 🛠 Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/Chroma-FFCD00?logo=chroma&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
+</p>
 
-#### 📚 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-007396?style=for-the-badge)
-![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-FA0F00?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+</p>
+
+### Libraries, Frameworks & Models
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,flask,streamlit,matplotlib,seaborn" />
+  <img src="https://img.shields.io/badge/Sentence%20Transformer-00599C?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beautiful%20Soup-4CAF50?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot-0088CC?logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/ngrok-1F1F1F?logo=ngrok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/BERT-2196F3?logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0A9396?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naive%20Bayes-FF9800?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logistic%20Regression-4CAF50?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decision%20Tree-9C27B0?logo=python&logoColor=white" />
+</p>
+
 
 ---
 </br>
