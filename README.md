@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,50:3f5efb,100:00c9ff&height=200&section=header&text=Hi%20👋,%20I'm%20Suyoga%20Gaikwad&fontColor=ffffff&fontSize=42&fontAlignY=55&descAlign=50&descSize=22&descAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,50:3f5efb,100:00c9ff&height=150&section=header&text=Hi%20👋,%20I'm%20Suyoga%20Gaikwad&fontColor=ffffff&fontSize=42&fontAlignY=46&descAlign=50&descSize=22&descAlignY=40" />
 </p>
-
 <!-- Visitor Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suyogagaikwad&color=brightgreen" alt="Profile Views" />
@@ -51,11 +50,10 @@
   </a>
 </p>
 
-</br>
-
-
-<h2 align="left"> Skills & Technologies</h2>
-
+<br>
+<h2 align="left">
+  <img src="https://img.icons8.com/ios-filled/25/ffffff/settings.png"/> Skills & Technologies
+</h2>
 
 ### Programming Languages
 <p align="left">
@@ -96,6 +94,7 @@
 
 
 ---
+
 </br>
 <p><h3>@Top Projects</h3></p>
 
